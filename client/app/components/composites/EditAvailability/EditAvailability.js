@@ -1,6 +1,7 @@
 import r, { div } from 'r-dom';
 import { DayPicker } from 'react-dates';
 
+import 'react-dates/css/styles.scss';
 import css from './EditAvailability.css';
 
 const EditAvailability = (props) => {
